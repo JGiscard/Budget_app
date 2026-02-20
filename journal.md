@@ -16,3 +16,24 @@
 - [Note les erreurs/blocages et comment tu les as résolus]
 
 ### Temps passé
+
+## Jour 2 - [Date]
+
+### Ce que j'ai appris
+- Les listes : stocker plusieurs valeurs, append, remove, len
+- Les boucles for : parcourir une liste, enumerate, zip, range
+- Les boucles while : répéter tant qu'une condition est vraie, break
+- Les dictionnaires : paires clé/valeur, mini base de données
+- Les fonctions : def, paramètres, return vs print
+- Combiner tout ça dans une vraie mini-application interactive
+
+### Concepts clés
+- liste = collection ordonnée par index (commence à 0)
+- dictionnaire = collection par clé nommée
+- for = "pour chaque élément"
+- while = "tant que c'est vrai"
+- fonction = bloc réutilisable, def + return
+
+### Ce qui est encore flou
+- [...]
+
