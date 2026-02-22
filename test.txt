@@ -1,0 +1,3 @@
+Méthode propre ligne 1.
+Méthodeo propres ligne 2.
+Methode propre fin.

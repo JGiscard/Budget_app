@@ -1,0 +1,65 @@
+{
+    "revenus": 3500.0,
+    "depenses": [
+        {
+            "nom": "Loyer",
+            "montant": 700.0,
+            "categorie": "Logement",
+            "date": "2026-02-22 02:31"
+        },
+        {
+            "nom": "Nourriture",
+            "montant": 300.0,
+            "categorie": "Alimentation",
+            "date": "2026-02-22 02:31"
+        },
+        {
+            "nom": "Voiture",
+            "montant": 100.0,
+            "categorie": "Transport",
+            "date": "2026-02-22 02:32"
+        },
+        {
+            "nom": "Parc",
+            "montant": 200.0,
+            "categorie": "Loisirs",
+            "date": "2026-02-22 02:32"
+        },
+        {
+            "nom": "Restaurant",
+            "montant": 200.0,
+            "categorie": "Loisirs",
+            "date": "2026-02-22 02:32"
+        },
+        {
+            "nom": "Chaussures",
+            "montant": 200.0,
+            "categorie": "Autre",
+            "date": "2026-02-22 02:32"
+        },
+        {
+            "nom": "Vêtements",
+            "montant": 200.0,
+            "categorie": "Autre",
+            "date": "2026-02-22 02:33"
+        },
+        {
+            "nom": "Médicaments",
+            "montant": 100.0,
+            "categorie": "Santé",
+            "date": "2026-02-22 02:33"
+        },
+        {
+            "nom": "Dent",
+            "montant": 510.0,
+            "categorie": "Santé",
+            "date": "2026-02-22 02:33"
+        },
+        {
+            "nom": "Spa",
+            "montant": 300.0,
+            "categorie": "Loisirs",
+            "date": "2026-02-22 02:33"
+        }
+    ]
+}
