@@ -37,3 +37,25 @@
 ### Ce qui est encore flou
 - [...]
 
+## Jour 3 - [Date]
+
+### Ce que j'ai appris
+- Lire/écrire des fichiers texte : open(), read(), write()
+- Le mot-clé "with" pour gérer les fichiers proprement
+- Le format JSON : json.dump() pour sauvegarder, json.load() pour charger
+- La gestion d'erreurs : try/except pour empêcher les crashs
+- Le module os : vérifier si un fichier existe avec os.path.exists()
+- Le module datetime : ajouter la date automatiquement
+- Les constantes (MAJUSCULES) pour les configurations
+
+### Concepts clés
+- "w" écrase, "a" ajoute, "r" lit
+- JSON = format universel pour données structurées
+- try/except = filet de sécurité
+- Toujours valider les entrées utilisateur
+
+### Ce qui est encore flou
+- [...]
+
+### Fierté du jour
+- Mon app sauvegarde les données ! Je peux la fermer et rouvrir !
