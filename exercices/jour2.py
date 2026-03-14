@@ -100,7 +100,7 @@ print(f"\n💰 Total général : {total_general}€")
 
 def saluer( prenom):
     """Affiche un message de bienvenu"""
-    print(f"Bonjour{prenom} et bienvenu au cours de français")
+    print(f"\n Bonjour {prenom} et bienvenu au cours de français")
 
 saluer ("Sarah")
 saluer("Paul")
