@@ -1,5 +1,5 @@
 {
-    "revenus": 3500.0,
+    "revenus": 5000.0,
     "depenses": [
         {
             "nom": "Loyer",
@@ -60,6 +60,42 @@
             "montant": 300.0,
             "categorie": "Loisirs",
             "date": "2026-02-22 02:33"
+        },
+        {
+            "nom": "Jeux",
+            "montant": 500.0,
+            "categorie": "Loisirs",
+            "date": "2026-03-15 00:26"
+        },
+        {
+            "nom": "Pain",
+            "montant": 100.0,
+            "categorie": "Alimentation",
+            "date": "2026-03-15 00:26"
+        },
+        {
+            "nom": "portable",
+            "montant": 800.0,
+            "categorie": "Autres",
+            "date": "2026-03-15 00:26"
+        },
+        {
+            "nom": "sida",
+            "montant": 500.0,
+            "categorie": "Santé",
+            "date": "2026-03-15 00:27"
+        },
+        {
+            "nom": "golf",
+            "montant": 400.0,
+            "categorie": "Loisirs",
+            "date": "2026-03-15 00:27"
+        },
+        {
+            "nom": "loyer",
+            "montant": 600.0,
+            "categorie": "Logement",
+            "date": "2026-03-15 00:27"
         }
     ]
 }

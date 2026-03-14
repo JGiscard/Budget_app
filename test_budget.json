@@ -1,0 +1,77 @@
+{
+    "revenus": 2000,
+    "depenses": [
+        {
+            "nom": "Loyer",
+            "montant": 800,
+            "categorie": "Logement",
+            "date": "2026-03-14 23:52"
+        },
+        {
+            "nom": "Courses",
+            "montant": 250,
+            "categorie": "Alimentation",
+            "date": "2026-03-14 23:52"
+        },
+        {
+            "nom": "Métro",
+            "montant": 75,
+            "categorie": "Transport",
+            "date": "2026-03-14 23:52"
+        },
+        {
+            "nom": "Restaurant",
+            "montant": 45,
+            "categorie": "Alimentation",
+            "date": "2026-03-14 23:52"
+        },
+        {
+            "nom": "Netflix",
+            "montant": 15.99,
+            "categorie": "Loisirs",
+            "date": "2026-03-14 23:52"
+        },
+        {
+            "nom": "Médecin",
+            "montant": 25,
+            "categorie": "Santé",
+            "date": "2026-03-14 23:52"
+        },
+        {
+            "nom": "Loyer",
+            "montant": 800,
+            "categorie": "Logement",
+            "date": "2026-03-14 23:56"
+        },
+        {
+            "nom": "Courses",
+            "montant": 250,
+            "categorie": "Alimentation",
+            "date": "2026-03-14 23:56"
+        },
+        {
+            "nom": "Métro",
+            "montant": 75,
+            "categorie": "Transport",
+            "date": "2026-03-14 23:56"
+        },
+        {
+            "nom": "Restaurant",
+            "montant": 45,
+            "categorie": "Alimentation",
+            "date": "2026-03-14 23:56"
+        },
+        {
+            "nom": "Netflix",
+            "montant": 15.99,
+            "categorie": "Loisirs",
+            "date": "2026-03-14 23:56"
+        },
+        {
+            "nom": "Médecin",
+            "montant": 25,
+            "categorie": "Santé",
+            "date": "2026-03-14 23:56"
+        }
+    ]
+}
